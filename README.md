@@ -1,4 +1,4 @@
-# Object-Oriented-Programming
+# Object-Oriented-Programming School labs
 Objektorienterad programmering
 
 • Python
